@@ -31,10 +31,20 @@
  */
 
 // General
+$string['headerconfig'] = 'Superframe Settings';
+$string['headerconfigdesc'] = 'Customisation settings for the superframe block';
+$string['height'] = 'Height';
+$string['height_details'] = 'iFrame height';
 $string['message'] = 'I am a great developer';
+$string['pagelayout'] = 'Page layout';
+$string['pagelayout_details'] = 'Layout of the page';
 $string['pluginname'] = 'Super frame';
 $string['viewlink'] = 'View Page';
 $string['welcomeuser'] = 'Welcome {$a->firstname} {$a->lastname}';
+$string['width'] = 'Width';
+$string['width_details'] = 'iFrame width';
+$string['url'] = 'iFrame URL';
+$string['url_details'] = 'The URL to the iFrame you wish to be displayed';
 
 // Capability strings
 $string['superframe:addinstance'] = 'Add a new Super frame block';
