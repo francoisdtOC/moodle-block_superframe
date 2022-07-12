@@ -31,7 +31,9 @@
  */
 
 // General
+$string['message'] = 'I am a great developer';
 $string['pluginname'] = 'Super frame';
+$string['viewlink'] = 'View Page';
 $string['welcomeuser'] = 'Welcome {$a->firstname} {$a->lastname}';
 
 // Capability strings
